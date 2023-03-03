@@ -19,4 +19,8 @@ I investigated and analyzed absenteeism trends in a medium-sized company and pre
 
 ## **Here is what the dashboard looks like:**
 
-![Alt text](https://github.com/abdulmalikadeyemo/HR_Absenteeism_Insight_Case_Study/blob/main/Absentee_DB.PNG)
+#### **Absenteeism Dashboard:**
+![Dashboard Showing the Absenteeism rate](https://github.com/abdulmalikadeyemo/HR_Absenteeism_Insight_Case_Study/blob/main/Absentee_DB.PNG)
+
+#### **Employee Performance Dashboard:**
+![Dashboard Showing the Employee performance](https://github.com/abdulmalikadeyemo/HR_Absenteeism_Insight_Case_Study/blob/main/Performance_DB.PNG)
